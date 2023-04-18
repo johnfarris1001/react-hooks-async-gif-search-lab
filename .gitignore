@@ -2,6 +2,9 @@
 
 .DS_Store
 
+# Secrets
+src/keys.js
+
 ### Node ###
 # Logs
 logs
